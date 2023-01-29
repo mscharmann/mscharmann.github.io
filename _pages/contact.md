@@ -13,7 +13,7 @@ permalink: /contact/
 
 # contact
 
-Mathias Scharmann
+Dr. Mathias Scharmann
 
 University of Potsdam
 
