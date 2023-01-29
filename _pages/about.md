@@ -15,6 +15,15 @@ born 1986 in Germany
 | 2018 |	Doktor der Wissenschaften (Dr. sc. ETH Zürich), Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich, Zürich, Switzerland, Supervisor: Prof. Alex Widmer, “Evolutionary genomics of carnivorous Nepenthes pitcher plants" |
 | 2012 | Diplom-Biologe Univ., University of Würzburg, Würzburg, Germany, sehr gut |
 
+
+| Employee         | Salary |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | $1     | Because that's all Steve Jobs needed for a salary.           |
+| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
+| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
+| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+
+
 ## Scientific career
 | year | post |
 | --- | --- |
