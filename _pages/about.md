@@ -7,7 +7,7 @@ permalink: /about/
 # Curriculum Vitae
 
 Dr. Mathias Scharmann\
-born 9 March 1986 in Beckum, NRW, Germany; married, one child.\
+born 9 March 1986 in Beckum, NRW, Germany; married, one child.
 
 ## Academic record
 | --- | --- |

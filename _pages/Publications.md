@@ -8,7 +8,12 @@ My ORCID is [0000-0001-8523-6888](https://orcid.org/0000-0001-8523-6888).
 
 My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54kSTFkAAAAJ&hl=en).
 
-## preprints
+## current preprints
+
+Scharmann, M., Metali, F., Grafe, U., Widmer, A. (2023). Genomic evidence for rapid speciation and gene flow between sympatric carnivorous Nepenthes pitcher plants. bioRxiv 2023.01.07.522986. https://doi.org/10.1101/2023.01.07.522986\
+\
+Scharmann, M., Metali, F., Grafe, U., Widmer, A. (2023). Adaptive evolution of carnivory in Nepenthes pitcher plants: a comparative transcriptomics and proteomics perspective. bioRxiv 2023.01.07.523112. https://doi.org/10.1101/2023.01.07.523112
+
 
 ## peer-reviewed
 
@@ -37,6 +42,8 @@ Scharmann, M. & Grafe, T.U. (2013). Reinstatement of Nepenthes hemsleyana (Nepen
 
 
 ## other publications
-Scharmann, M. (2014) Special among a special flora - the carnivore Nepenthes pervillei. Kapisen 17, 18-19.\
+Scharmann, M. (2014) Special among a special flora - the carnivore Nepenthes pervillei. Kapisen 17, 18-19.
 
 ## in the making
+- Leucadendron genomics
+- Amsinckia genomics
