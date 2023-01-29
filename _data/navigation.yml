@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "home"
-     url: https://mscharmann.github.io/
+    url: https://mscharmann.github.io/
   - title: "research"
-     url: /research/
+    url: /research/
   - title: "publications"
-     url: /publications/
+    url: /publications/
   - title: "CV"
-     url: /CV/
+    url: /CV/
   - title: "contact"
-     url: /contact/
+    url: /contact/
