@@ -2,8 +2,8 @@
 main:
   - title: "home"
      url: https://mscharmann.github.io/
-  - title: "research projects"
-     url: /research-projects/
+  - title: "research"
+     url: /research/
   - title: "publications"
      url: /publications/
   - title: "CV"
