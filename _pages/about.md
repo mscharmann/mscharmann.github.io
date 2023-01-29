@@ -16,7 +16,6 @@ born 1986 in Germany
 | 2012 | Diplom-Biologe Univ., University of Würzburg, Würzburg, Germany, sehr gut |
 
 
-| year        | degree |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | 2018    | Doktor der Wissenschaften (Dr. sc. ETH Zürich), Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich, Zürich, Switzerland, Supervisor: Prof. Alex Widmer, “Evolutionary genomics of carnivorous Nepenthes pitcher plants"     | Because that's all Steve Jobs needed for a salary.           |
 | [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
