@@ -15,6 +15,7 @@ born 9 March 1986 in Beckum, NRW, Germany; married, one child.
 | 2012 | Diplom-Biologe Univ., University of Würzburg, Würzburg, Germany, sehr gut |
 
 ## Scientific career
+| | |
 | --- | --- |
 | 2021-current | Post-Doc (Wissenschaftlicher Mitarbeiter), Prof. Michael Lenhard, Institute for Biochemistry and Biology, University of Potsdam, Potsdam, Germany |
 | 2018-2021 |	Post-Doc (Premier Assistant), Prof. John Pannell, Department of Ecology and Evolution, University of Lausanne, Lausanne, Switzerland |
