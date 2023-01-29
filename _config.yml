@@ -20,10 +20,10 @@ title                    : "Mathias Scharmann"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mathias Scharmann"
-description              : "An amazing website"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "personal website"
+url                      : "https://mscharmann.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mscharmann"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -81,7 +81,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "g67187621"
 facebook:
   username               :
   app_id                 :
