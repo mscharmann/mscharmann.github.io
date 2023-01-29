@@ -151,6 +151,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+include: ["_pages"]
 
 # Reading Files
 include:
@@ -287,6 +288,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
