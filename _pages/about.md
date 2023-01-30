@@ -10,20 +10,14 @@ Dr. Mathias Scharmann\
 born 1986 in Germany
 
 ## Academic record
-| year | degree |
-| --- | --- |
-| 2018 |	Doktor der Wissenschaften (Dr. sc. ETH Zürich), Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich, Zürich, Switzerland, Supervisor: Prof. Alex Widmer, “Evolutionary genomics of carnivorous Nepenthes pitcher plants" |
-| 2012 | Diplom-Biologe Univ., University of Würzburg, Würzburg, Germany, sehr gut |
 
-
-| --------         | ------ | ------------------------------------------------------------ |
-| 2018    | Doktor der Wissenschaften (Dr. sc. ETH Zürich), Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich, Zürich, Switzerland, Supervisor: Prof. Alex Widmer, “Evolutionary genomics of carnivorous Nepenthes pitcher plants"     | Because that's all Steve Jobs needed for a salary.           |
-| [Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| [Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| [Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+| --------         |  ------------------------------------------------------------ |
+| 2018    | Doktor der Wissenschaften (Dr. sc. ETH Zürich), Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich, Zürich, Switzerland, Supervisor: Prof. Alex Widmer, “Evolutionary genomics of carnivorous Nepenthes pitcher plants"     |
+| 2012    | Diplom-Biologe Univ., University of Würzburg, Würzburg, Germany, sehr gut                               |
 
 
 ## Scientific career
+
 | year | post |
 | --- | --- |
 | 2021-current | Post-Doc (Wissenschaftlicher Mitarbeiter), Prof. Michael Lenhard, Institute for Biochemistry and Biology, University of Potsdam, Potsdam, Germany |
@@ -31,6 +25,7 @@ born 1986 in Germany
 | 2011 |	Visitor at University of Cambridge, Insect Biomechanics Workgroup |
 
 ## Awards
+
 | year | award |
 | --- | --- |
 | 2011	| DAAD scholarship |
