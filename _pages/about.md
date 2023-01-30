@@ -1,12 +1,12 @@
 ---
 permalink: /about/
 
+title: "about me"
+
 header:
   overlay_image: /assets/images/DSC_0576_Espeletia.jpg
 
 ---
-
-# about me
 
 I studied biology in [Würzburg](https://www.biozentrum.uni-wuerzburg.de) and spent an ERASMUS year during my diploma thesis at [Cambridge](https://www.zoo.cam.ac.uk/research/groups/insect-biomechanics), then went to [Zürich](https://peg.ethz.ch/) for my PhD. I continued to [Lausanne](https://www.unil.ch/dee/pannell-group) for a first PostDoc and returned to Germany for a PostDoc in [Potsdam](https://www.uni-potsdam.de/en/ibb-genetik/index).
 
