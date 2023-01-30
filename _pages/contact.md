@@ -6,6 +6,8 @@ permalink: /contact/
 
 # address at University of Potsdam
 
+[Genetics group at Uni Potsdam](https://www.uni-potsdam.de/en/ibb-genetik/index)
+\
 Dr. Mathias Scharmann\
 University of Potsdam\
 Institute for Biochemistry and Biology\
