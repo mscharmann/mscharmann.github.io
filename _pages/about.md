@@ -13,7 +13,6 @@ I studied biology in [Würzburg](https://www.biozentrum.uni-wuerzburg.de) and sp
 <figure style="width: 400px" class="align-center">
   <a href="/assets/images/20180801_130956.jpg" title="finding Dionaea" alt="finding Dionaea">
   <img src="/assets/images/20180801_130956.jpg" alt=""></a>
-  <figcaption>""</figcaption>
 </figure>
 
 
@@ -25,7 +24,7 @@ born 1986 in Germany
 ## Academic record
 
 | 2018    | Doktor der Wissenschaften (Dr. sc. ETH Zürich), Institute of Integrative Biology, Swiss Federal Institute of Technology Zurich, Zürich, Switzerland, Supervisor: Prof. Alex Widmer, “Evolutionary genomics of carnivorous Nepenthes pitcher plants"     |
-| 2012    | Diplom-Biologe Univ., University of Würzburg, Würzburg, Germany, sehr gut                               |
+| 2012    | Diplom-Biologe Univ., University of Würzburg, Germany, sehr gut                               |
 
 
 ## Scientific career
