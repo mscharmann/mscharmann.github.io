@@ -2,11 +2,10 @@
 permalink: /publications/
 
 header:
-  image: /assets/images/IMG_20201101_133524_HDR_01.jpg
+  overlay_image: /assets/images/IMG_20201101_133524_HDR_01.jpg
 
 ---
 
-# Publications
 
 My ORCID is [0000-0001-8523-6888](https://orcid.org/0000-0001-8523-6888).
 
