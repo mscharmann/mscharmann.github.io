@@ -45,6 +45,3 @@ born 1986 in Germany
 - plant mating systems and sex chromosomes
 - plant diversification, speciation and evolutionary radiations
 - Carnivorous plants
-
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_20201101_133524_HDR_01.jpg "Larix in Valais")
