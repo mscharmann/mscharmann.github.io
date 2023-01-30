@@ -40,7 +40,9 @@ born 1986 in Germany
 | 2009	|	DAAD scholarship |
 
 ## Research interests and expertise
-- evolutionary genomics
-- plant mating systems and sex chromosomes
+- evolutionary + ecological genomics
+- plant mating systems
+- sex chromosomes and supergenes
 - plant diversification, speciation and evolutionary radiations
-- Carnivorous plants
+- carnivorous plants
+- evolution of developmental systems
