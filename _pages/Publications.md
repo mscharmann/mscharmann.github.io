@@ -2,7 +2,7 @@
 permalink: /publications/
 
 header:
-  overlay_image: /assets/images/IMG_20201101_133524_HDR_01.jpg
+  image: /assets/images/IMG_20201101_133524_HDR_01.jpg
 
 ---
 
