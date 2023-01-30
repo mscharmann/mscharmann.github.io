@@ -6,7 +6,7 @@ title: "contact"
 
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e5/Neues_Palais_Sanssouci.jpg
-  
+  caption: "Neues Palais, Potsdam. Photo credit: Arne Müseler (https://www.arne-mueseler.com)"
 
 ---
 
