@@ -8,6 +8,7 @@ title: photoshoot for cultivated *Amsinckia furcata* and *Amsinckia vernicosa*
 I am raising lots of different *Amsinckia* accessions at Uni Potsdam for cytogenetic tests
 
 ![image-center](/assets/images/20240225_173452.jpg){: .align-center}
+Oops some of these young plants of *A. douglasiana* got a bit too dry there and nearly wilted, but amazingly fully recovered within a day. In general, *Amsinckia* seem to hate standing water at their roots and quickly rot/suffer, so its better to keep them on the dry side.
 ![image-center](/assets/images/20240225_173458.jpg){: .align-center}
 
 Now a few weeks later, the plants are in their prime and generally look the best when they are just starting to flower. 
