@@ -25,5 +25,5 @@ Close-up of an inflorescence...
 
 
 ![image-center](/assets/images/lunaris4.jpg){: .align-center}
-... and flowers of a "partial homostyle" morph, with three anthers visible high up ion the corolla tube. The other two anthers are hidden below, just at the height of the (also invisible) style/stigma.
+... and flowers of a "partial homostyle" morph, with three anthers visible high up in the corolla tube. The other two anthers are hidden below, just at the height of the (also invisible) style/stigma.
 
