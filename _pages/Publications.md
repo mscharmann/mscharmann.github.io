@@ -40,7 +40,6 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 0. Scharmann, M., & Grafe, T. U. (2013). Reinstatement of Nepenthes hemsleyana (Nepenthaceae), an endemic pitcher plant from Borneo, with a discussion of associated Nepenthes taxa. Blumea, 58, 8-12. https://doi.org/10.3767/000651913X668465
 
 0. Scharmann, M., Thornham, D. G., Grafe, T. U., & Federle, W. (2013). A novel type of nutritional ant-plant interaction: Ant partners of carnivorous pitcher plants prevent nutrient export by dipteran pitcher infauna. PLOS ONE, 8(5), e63556. https://doi.org/10.1371/journal.pone.0063556
-
 {: reversed="reversed"}
 
 
@@ -58,7 +57,6 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 0. Grafe, T. U., Goutte, S., Ahmadsah, H. H., Konopik, O., Scharmann, M., & Bauer, U. (2010). Updated check list of the amphibians of the Ulu Temburong National Park and Brunei Darus- salam. Scientia Bruneiana, 11, 53–59.
 
 0. Scharmann, M. (2010). Der Pulong Tau Nationalpark - Reise ins Herz von Borneo. Das Taublatt 67 & 68, 52-77 & 40-65.
-
 {: reversed="reversed"}
 
 ## coming soon ...
