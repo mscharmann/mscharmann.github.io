@@ -18,7 +18,7 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 0. Saul, F.\*, Scharmann, M.\*, Wakatake, T., Rajaraman, S., Marques, A., Freund, M., Bringmann, G., Channon, L., Becker, D., Carroll, E., Low, Y. W., Lindqvist, C., Gilbert, K. J., Renner, T., Masuda, S., Richter, M., Vogg, G., Shirasu, K., . . . Albert, V. & Fukushima, K. (2023). Subgenome dominance shapes novel gene evolution in the decaploid pitcher plant Nepenthes gracilis. Nature Plants https://doi.org/10.1038/s41477-023-01562-2
  \*co-first authorship 
 
-0. Florez-Rueda, A. M.\*, Scharmann, M.\*, Roth, M., & Städler, T. (2021). Population genomics of the ’Arcanum’ species group in wild tomatoes: Evidence for separate origins of two self- compatible lineages. Frontiers in Plant Science, 12. https://doi.org/10.3389/fpls.2021.624442 *co-first authorship Collaborative project resulting in co-first authorship. Discovered that self-fertilizing wild tomato species originated twice independently. I contributed in the design stage, the inference of phylogenomics and population demographic history, assembly of incompatibility genes’ haplotypes, and writing.
+0. Florez-Rueda, A. M.\*, Scharmann, M.\*, Roth, M., & Städler, T. (2021). Population genomics of the ’Arcanum’ species group in wild tomatoes: Evidence for separate origins of two self- compatible lineages. Frontiers in Plant Science, 12. https://doi.org/10.3389/fpls.2021.624442
  \*co-first authorship 
 
 0. Jeffries, D. L., Gerchen, J. F., Scharmann, M., & Pannell, J. R. (2021). A neutral model for the loss of recombination on sex chromosomes. Philosophical Transactions of the Royal Society B: Biological Sciences, 376(1832), 20200096. https://doi.org/10.1098/rstb.2020.0096
@@ -27,7 +27,7 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 
 0. Scharmann, M., Wistuba, A., & Widmer, A. (2021). Introgression is widespread in the radia- tion of carnivorous Nepenthes pitcher plants. Molecular Phylogenetics and Evolution, 107214. https://doi.org/10.1016/j.ympev.2021.107214
 
-0. Wolf, E., Gaquerel, E., Scharmann, M., Yant, L., & Koch, M. A. (2021). Evolutionary footprints of a cold relic in a rapidly warming world. eLife, 10, e71572. https://doi.org/10.7554/eLife.71572 External collaboration during my post-doc. I contributed the inference of population history by coales- cent modelling (custom built Approximate Bayesian Computation framework).
+0. Wolf, E., Gaquerel, E., Scharmann, M., Yant, L., & Koch, M. A. (2021). Evolutionary footprints of a cold relic in a rapidly warming world. eLife, 10, e71572. https://doi.org/10.7554/eLife.71572
 
 0. Morgan, E. J., Kaiser-Bunbury, C. N., Edwards, P. J., Scharmann, M., Widmer, A., Fleischer- Dogley, F., & Kettle, C. J. (2020). Identification of sex-linked markers in the sexually cryptic coco de mer: Are males and females produced in equal proportions? AoB PLANTS, 12(1). https://doi.org/10.1093/aobpla/plz079
 
