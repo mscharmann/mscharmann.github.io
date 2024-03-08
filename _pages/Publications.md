@@ -35,7 +35,7 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 
 0. Lim, Y. S., Schöner, C. R., Schöner, M. G., Kerth, G., Thornham, D. G., Scharmann, M., & Grafe, T. U. (2015). How a pitcher plant facilitates roosting of mutualistic woolly bats. Evolutionary Ecology Research, 16(7), 581-591.
 
-0. Bauer, U., Scharmann, M., Skepper, J., & Federle, W. (2013). ’Insect aquaplaning’ on a superhydrophilic hairy surface: How Heliamphora nutans Benth. pitcher plants capture prey. Proceed- ings of the Royal Society B: Biological Sciences, 280(1753), 20122569. https://doi.org/10.1098/rspb.2012.2569
+0. Bauer, U., Scharmann, M., Skepper, J., & Federle, W. (2013). ’Insect aquaplaning’ on a superhydrophilic hairy surface: How Heliamphora nutans Benth. pitcher plants capture prey. Proceedings of the Royal Society B: Biological Sciences, 280(1753), 20122569. https://doi.org/10.1098/rspb.2012.2569
 
 0. Scharmann, M., & Grafe, T. U. (2013). Reinstatement of Nepenthes hemsleyana (Nepenthaceae), an endemic pitcher plant from Borneo, with a discussion of associated Nepenthes taxa. Blumea, 58, 8-12. https://doi.org/10.3767/000651913X668465
 
@@ -46,7 +46,7 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 ## other publications and preprints
 0. Scharmann, M. & Lenhard, M. (2024). Quick Guide: Heterostyly. Current Biology, in press.
 
-0. Scharmann, M., Metali, F., Grafe, T. U., & Widmer, A. (2023). Adaptive evolution of car- nivory in Nepenthes pitcher plants: a comparative transcriptomics and proteomics perspective. bioRxiv preprint, 2023.01.07.523112. doi: 10.1101/2023.01.07.523112
+0. Scharmann, M., Metali, F., Grafe, T. U., & Widmer, A. (2023). Adaptive evolution of carnivory in Nepenthes pitcher plants: a comparative transcriptomics and proteomics perspective. bioRxiv preprint, 2023.01.07.523112. doi: 10.1101/2023.01.07.523112
 
 0. Scharmann, M., Metali, F., Grafe, T. U., & Widmer, A. (2023). Genomic evidence for rapid speciation and gene flow between sympatric carnivorous Nepenthes pitcher plants. bioRxiv preprint, 2023.01.07.522986. doi: 10.1101/2023.01.07.522986
 
