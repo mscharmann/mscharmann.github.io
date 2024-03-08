@@ -25,17 +25,17 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 
 0. Scharmann, M., Rebelo, A. G., & Pannell, J. R. (2021). High rates of evolution preceded shifts to sex-biased gene expression in Leucadendron, the most sexually dimorphic angiosperms. eLife, 10, e67485. https://doi.org/10.7554/eLife.67485
 
-0. Scharmann, M., Wistuba, A., & Widmer, A. (2021). Introgression is widespread in the radia- tion of carnivorous Nepenthes pitcher plants. Molecular Phylogenetics and Evolution, 107214. https://doi.org/10.1016/j.ympev.2021.107214
+0. Scharmann, M., Wistuba, A., & Widmer, A. (2021). Introgression is widespread in the radiation of carnivorous Nepenthes pitcher plants. Molecular Phylogenetics and Evolution, 107214. https://doi.org/10.1016/j.ympev.2021.107214
 
 0. Wolf, E., Gaquerel, E., Scharmann, M., Yant, L., & Koch, M. A. (2021). Evolutionary footprints of a cold relic in a rapidly warming world. eLife, 10, e71572. https://doi.org/10.7554/eLife.71572
 
 0. Morgan, E. J., Kaiser-Bunbury, C. N., Edwards, P. J., Scharmann, M., Widmer, A., Fleischer- Dogley, F., & Kettle, C. J. (2020). Identification of sex-linked markers in the sexually cryptic coco de mer: Are males and females produced in equal proportions? AoB PLANTS, 12(1). https://doi.org/10.1093/aobpla/plz079
 
-0. Scharmann, M., Grafe, T. U., Metali, F., & Widmer, A. (2019). Sex is determined by XY chro- mosomes across the radiation of dioecious Nepenthes pitcher plants. Evolution Letters, 3(6), 586-597. https://doi.org/10.1002/evl3.142
+0. Scharmann, M., Grafe, T. U., Metali, F., & Widmer, A. (2019). Sex is determined by XY chromosomes across the radiation of dioecious Nepenthes pitcher plants. Evolution Letters, 3(6), 586-597. https://doi.org/10.1002/evl3.142
 
-0. Lim,Y.S.,Scho ̈ner,C.R.,Scho ̈ner,M.G.,Kerth,G.,Thornham,D.G.,Scharmann,M.,&Grafe, T. U. (2015). How a pitcher plant facilitates roosting of mutualistic woolly bats. Evolutionary Ecology Research, 16(7), 581-591.
+0. Lim, Y. S., Schöner, C. R., Schöner, M. G., Kerth, G., Thornham, D. G., Scharmann, M., & Grafe, T. U. (2015). How a pitcher plant facilitates roosting of mutualistic woolly bats. Evolutionary Ecology Research, 16(7), 581-591.
 
-0. Bauer, U., Scharmann, M., Skepper, J., & Federle, W. (2013). ’Insect aquaplaning’ on a superhy- drophilic hairy surface: How Heliamphora nutans Benth. pitcher plants capture prey. Proceed- ings of the Royal Society B: Biological Sciences, 280(1753), 20122569. https://doi.org/10.1098/rspb.2012.2569
+0. Bauer, U., Scharmann, M., Skepper, J., & Federle, W. (2013). ’Insect aquaplaning’ on a superhydrophilic hairy surface: How Heliamphora nutans Benth. pitcher plants capture prey. Proceed- ings of the Royal Society B: Biological Sciences, 280(1753), 20122569. https://doi.org/10.1098/rspb.2012.2569
 
 0. Scharmann, M., & Grafe, T. U. (2013). Reinstatement of Nepenthes hemsleyana (Nepenthaceae), an endemic pitcher plant from Borneo, with a discussion of associated Nepenthes taxa. Blumea, 58, 8-12. https://doi.org/10.3767/000651913X668465
 
