@@ -61,10 +61,11 @@ My Google Scholar Profile is [here](https://scholar.google.com/citations?user=54
 
 {: reversed="reversed"}
 
-## in the making
+## coming soon ...
 - *Leucadendron* genomics
 - *Amsinckia* genomics
 - *Turnera* genomics (with Joel Shore, York University)
+- *Dianthus* genomics (with ETH Zurich)
 
 
 
