@@ -4,14 +4,22 @@ permalink: /research/
 
 # research
 
-## Evolutionary genomics of carnivorous Nepenthes pitcher plants
+## Evolutionary genomics of carnivorous *Nepenthes* pitcher plants
 
 ETH Zurich and onwards
 
-## Evolution of sexual dimorphism and sex chromosomes in Leucadendron
+![image-center](/assets/images/Nepenthes_gland.png){: .align-center}
+
+## Evolution of sexual dimorphism and sex chromosomes in *Leucadendron*
 
 UNIL
 
-## Evolution and molecular genetic basis of heterostyly in Amsinckia
+![image-center](/assets/images/Leucadendron_genome.png){: .align-center}
+
+
+## Evolution and molecular genetic basis of heterostyly in *Amsinckia*
 
 Uni Potsdam
+
+![image-center](/assets/images/Amsinckia_spectabilis.png){: .align-center}
+
