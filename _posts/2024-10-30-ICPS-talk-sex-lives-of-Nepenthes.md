@@ -4,10 +4,11 @@ title: ICPS Webinar Sex Lives of *Nepenthes*
 
 ---
 
-The [International Carnivorous Plant Socienty (ICPS)](https://www.carnivorousplants.org/) is organizing a regular Webinar series (zoom events), and today it was my honour to talk about the sex lives of *Nepenthes*
+The [International Carnivorous Plant Socienty (ICPS)](https://www.carnivorousplants.org/) is organizing a regular Webinar series (zoom events), and today it was my honour to talk about the sex lives of *Nepenthes*. Here is the recorded presentation:
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BgNPSzf7xj8?si=y26AUcMEq_kuV7hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Sex Lives of *Nepenthes* Webinar](https://www.youtube.com/embed/BgNPSzf7xj8?si=y26AUcMEq_kuV7hF)
+
 
 
 Please note the reference to the *Nepenthes gracilis* genome paper is:
