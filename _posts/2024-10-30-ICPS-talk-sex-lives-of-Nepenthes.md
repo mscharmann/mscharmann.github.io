@@ -7,7 +7,7 @@ title: ICPS Webinar Sex Lives of *Nepenthes*
 The [International Carnivorous Plant Socienty (ICPS)](https://www.carnivorousplants.org/) is organizing a regular Webinar series (zoom events), and today it was my honour to talk about the sex lives of *Nepenthes*. Here is the recorded presentation:
 
 
-[Sex Lives of *Nepenthes* Webinar](https://www.youtube.com/embed/BgNPSzf7xj8?si=y26AUcMEq_kuV7hF)
+[Sex Lives of *Nepenthes* Webinar](https://www.youtube.com/watch?v=BgNPSzf7xj8)
 
 
 
