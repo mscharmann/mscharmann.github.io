@@ -1,6 +1,6 @@
 ---
 
-title: ICPS Webinar: Sex Lives of *Nepenthes*
+title: ICPS Webinar Sex Lives of *Nepenthes*
 
 ---
 
